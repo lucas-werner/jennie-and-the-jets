@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jennie-and-the-jets/static/css/main.440183cf.css",
+    "main.js": "/jennie-and-the-jets/static/js/main.73451c1c.js",
+    "static/js/787.f5d08109.chunk.js": "/jennie-and-the-jets/static/js/787.f5d08109.chunk.js",
+    "static/media/live_music-wallpaper-1920x1080.jpg": "/jennie-and-the-jets/static/media/live_music-wallpaper-1920x1080.8a639ec5006553f600e7.jpg",
+    "index.html": "/jennie-and-the-jets/index.html",
+    "main.440183cf.css.map": "/jennie-and-the-jets/static/css/main.440183cf.css.map",
+    "main.73451c1c.js.map": "/jennie-and-the-jets/static/js/main.73451c1c.js.map",
+    "787.f5d08109.chunk.js.map": "/jennie-and-the-jets/static/js/787.f5d08109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.440183cf.css",
+    "static/js/main.73451c1c.js"
+  ]
+}
