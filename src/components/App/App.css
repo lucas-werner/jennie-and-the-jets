@@ -41,7 +41,7 @@ h2 {
 
 .App-playlist {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   width: 100%;
 }
 

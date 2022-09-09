@@ -1,9 +1,12 @@
 .PlaylistList {
-  margin-top: 20px;
-  height: 250px;
+  display: flex;
+  flex-direction: column;
   overflow-y: scroll;
+  width: 60%;
+  margin-top: 20px;
+  height: 400px;
   padding: 1rem 1rem;
-  background-color: rgba(1, 12, 63, 0.7);
+  background-color: rgba(1, 50, 0, 0.7);
   box-shadow: 0 4px 2px 2px #000000;
 }
 

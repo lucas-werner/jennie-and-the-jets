@@ -6,7 +6,7 @@ export default class PlaylistList extends React.Component {
   render() {
     return (
       <div className='PlaylistList'>
-        <h2>Your Saved Playlists</h2>
+        <h2>Saved Playlists</h2>
         <>
           {this.props.playlists &&
             this.props.playlists.map((playlist) => {

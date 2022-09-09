@@ -101,7 +101,9 @@ class App extends React.Component {
               onSave={this.savePlaylist}
             />
           </div>
-          <PlaylistList playlists={this.state.playlists} />
+          <div className='App-playlist'>
+            <PlaylistList playlists={this.state.playlists} />
+          </div>
         </div>
       </div>
     );
