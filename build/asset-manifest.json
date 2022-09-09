@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jennie-and-the-jets/static/css/main.dbe79f8c.css",
-    "main.js": "/jennie-and-the-jets/static/js/main.0d1c002e.js",
+    "main.css": "/jennie-and-the-jets/static/css/main.df7d3a38.css",
+    "main.js": "/jennie-and-the-jets/static/js/main.c4b9e37f.js",
     "static/js/787.f5d08109.chunk.js": "/jennie-and-the-jets/static/js/787.f5d08109.chunk.js",
     "static/media/live_music-wallpaper-1920x1080.jpg": "/jennie-and-the-jets/static/media/live_music-wallpaper-1920x1080.8a639ec5006553f600e7.jpg",
     "index.html": "/jennie-and-the-jets/index.html",
-    "main.dbe79f8c.css.map": "/jennie-and-the-jets/static/css/main.dbe79f8c.css.map",
-    "main.0d1c002e.js.map": "/jennie-and-the-jets/static/js/main.0d1c002e.js.map",
+    "main.df7d3a38.css.map": "/jennie-and-the-jets/static/css/main.df7d3a38.css.map",
+    "main.c4b9e37f.js.map": "/jennie-and-the-jets/static/js/main.c4b9e37f.js.map",
     "787.f5d08109.chunk.js.map": "/jennie-and-the-jets/static/js/787.f5d08109.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbe79f8c.css",
-    "static/js/main.0d1c002e.js"
+    "static/css/main.df7d3a38.css",
+    "static/js/main.c4b9e37f.js"
   ]
 }
