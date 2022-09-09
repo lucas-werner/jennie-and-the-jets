@@ -34,6 +34,10 @@ class App extends React.Component {
     });
   }
 
+  componentDidUpdate() {
+    this.getUserPlaylists();
+  }
+
   addTrack(track) {
     const { playlistTracks } = this.state;
     const isInThePlaylist = playlistTracks.some((song) => song.id === track.id);
@@ -64,7 +68,7 @@ class App extends React.Component {
   savePlaylist() {
     const { playlistTracks, playlistName } = this.state;
     const trackURIs = playlistTracks.map((track) => track.uri);
-    Spotify.savePlaylist(playlistName, trackURIs).then(() => {
+    Spotify.savePlayList(playlistName, trackURIs).then(() => {
       this.setState({
         playlistName: 'New Playlist',
         playlistTracks: [],

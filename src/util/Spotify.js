@@ -95,7 +95,7 @@ const Spotify = {
         }));
       });
   },
-  // name = playlist name
+
   savePlayList(name, trackUris) {
     if (!name || !trackUris.length) {
       return;
