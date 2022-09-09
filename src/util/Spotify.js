@@ -1,5 +1,5 @@
 const clientId = '07daeb5888274bd1883e1c4a5445de0e';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://lucas-werner.github.io/jennie-and-the-jets/';
 let userId;
 let accessToken;
 
